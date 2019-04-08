@@ -1,1 +1,1 @@
-A binance study using react and redux.
+A binance study using react and  redux.
